@@ -1,4 +1,4 @@
-# Docksal with Drupal 8 Starter
+# Drupal 8 Starter with Docksal and Bootstrap 4
 
 Simple Drupal 8 Installation with Docksal, bootstrap and SASS with Barrio theme
 
